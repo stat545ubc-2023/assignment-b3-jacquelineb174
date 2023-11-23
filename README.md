@@ -3,7 +3,7 @@
 #### app.R: is the R script used to create the app
 #### penguins.csv is a file that contains the penguins dataset used in the app. 
 
-# About the app: Find the Right Penguin
+# About the App: Find the Right Penguin
 ### This app was created so that a user can sort through penguins inside the palmerpenguins dataset to find only the ones that fit their specific criteria. The user inputs a range of body masses, the species of penguin, and the sex of the penguin and the output is a table of all of the penguins that fit that criteria. Copied below is a link to a running isntance of the app. 
 ### https://jacquelinebapps.shinyapps.io/AssignmentB3/
 
