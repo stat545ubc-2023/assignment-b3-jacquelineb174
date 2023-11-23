@@ -5,7 +5,7 @@ account: jacquelinebapps
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10607391
-bundleId: 7962707
+bundleId: 7962844
 url: https://jacquelinebapps.shinyapps.io/AssignmentB3/
 version: 1
 asMultiple: FALSE

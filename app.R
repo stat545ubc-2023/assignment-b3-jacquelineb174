@@ -6,7 +6,7 @@ penguins <- read.csv("https://raw.githubusercontent.com/stat545ubc-2023/assignme
 
 ui <- fluidPage(
   titlePanel("Find the Right Penguin!"), "Welcome! This app is designed to help you find the IDs of penguins from the palmerpenguins dataset that fit the qualities you are looking for.",
-  br(), "The palmerpenguins github is here", a("https://github.com/allisonhorst/palmerpenguins"),
+  br(), "The palmerpenguins github is", a("here", href = "https://github.com/allisonhorst/palmerpenguins"),
 #Feature #1 is adding a layout. This is useful because I can separate the side bar to contain the variables to be adjusted by the user and have a separate table populate in the main panel beside. 
 sidebarLayout(
   sidebarPanel(
