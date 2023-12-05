@@ -1,5 +1,5 @@
 # What is the goal of the repository?
-### This repository was created to complete assignment B3 of STATS545B. The goal of the assignment is to learn how to create my own Shiny App with R and add features to it. The files in the repository are:
+### This repository was created to complete Assignment's B3 and B4 of STATS545B. The goal of the assignment is to learn how to create a Shiny App with R and add features to it. The files in the repository are:
 * app.R is the R script used to create the app for Assignment B4. It is modified code that was previously used to create Assignment B3.
 * penguins.csv is a file that contains the penguins dataset used in the app. 
 * www is the folder that contains the "palmer penguins" image that was retrieved from: https://allisonhorst.github.io/palmerpenguins/articles/intro.html
