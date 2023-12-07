@@ -40,7 +40,7 @@ server <- function(input, output) {
   })
   output$PenguinMatch <- downloadHandler(
     filename = function() {
-      paste(PenguinMatch, ".csv", sep = "")
+      paste("filtered", Sys.Date(), ".csv", sep = "")
     },
     content = function(file) {
       write.csv(filtered(), file, row.names = FALSE)

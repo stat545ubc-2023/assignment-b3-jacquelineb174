@@ -1,0 +1,12 @@
+name: AssignmentB4
+title: AssignmentB4
+username: jacquelinebapps
+account: jacquelinebapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10745368
+bundleId: 8021369
+url: https://jacquelinebapps.shinyapps.io/AssignmentB4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
